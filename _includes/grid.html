@@ -1,6 +1,14 @@
+<!--
+
+The grid include takes the following arguments:
+  list: an array of items to display in the grid, oin the format site.data.FILENAME W/O EXTENSION
+
+-->
+
+
 {% assign grid_items = include.list %}
 <div class="flex-inner">
-{% for item in grid_items %}
+  {% for item in grid_items %}
   {% include card.html image=item.image link=item.link title=item.title description=item.description %}
-{% endfor %}
+  {% endfor %}
 </div>
