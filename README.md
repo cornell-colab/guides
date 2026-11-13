@@ -5,10 +5,10 @@ This file serves a guide to the features built into the Just the Docs Template f
 In order to edit the Guides site locally, you can either create and edit a Markdown file on your computer and then upload the new Markdown file to the GitHub Repository's pages folder; or edit the whole site locally by making a copy.
 
 To edit locally in VSCode:
-1. Go to the remote repository at https://github.com/cornell-colab/guides-site.
-2. Clone the repository: Copy the command under GitHub CLI and paste it into the Command Line/Terminal on your computer.
+1. Change directories into your preferred directory for the repo to live.
+2. Run `git clone https://github.com/cornell-colab/guides.git`
 3. After the command runs, change into the directory for your new cloned repository.
-4. Run `git remote add main https://github.com/cornell-colab/dss-site.git`.
+4. Run `git remote add main https://github.com/cornell-colab/guides.git`
 
 You should now have a local version of the repository's main branch on your computer. In every editiong session BEFORE you make a change to the site, use git to pull the remote repository changes. Then push your changes to the remote repository when you're done.
 
@@ -40,7 +40,7 @@ You can edit a page simply by adding new [Markdown-formatted](https://www.markdo
 
 #### Adding Includes
 You can add include to a page by identifying the space in the page you'd like to add your include and inserting:
-{% include FILENAME OF INCLUDE W/O EXTENSION %}. Each include has its own arguments or parameters that can be included to determine what content appears. Each include in the *_includes* folder lists its parameters as a comment at the top of the file.
+{% include FILENAME OF INCLUDE W/O EXTENSION %}. **Each include has its own arguments or parameters that can be included to determine what content appears. Each include in the *_includes* folder lists its parameters as a comment at the top of the file.**
 
 #### Adding Files/Links
 To avoid hotlinking, please upload any PDFs, images, scripts, videos, or other media files to the *assets* folder, within an approriately titled subfolder. Your link to said media item will then be internal to the site, rather than pulling from an external server. Because of this internal structure, you can use shortened relative paths instead of full links, e.g. `{{ site.baseurl }}/assets/img/digital-colab.png`.
