@@ -39,5 +39,7 @@ Collection as data work thus explores the potential of using computational metho
     Valuing interoperability
     Ongoing, iterative processes
     Much, much, more!
+## Resources for getting started
+Have questions or interested in exploring a collections as data project? Look through our [Collections as Data research guide](link)!
 
-Have questions or interested in exploring a collections as data project? Reach out to Kiran Mohammadi-Williams at kam535@cornell.edu!
+Want to get inspiration for a class project, curriculum-planning, digital dissertations, or FWS design? Look through our [Digital Un-essay research guide](link)!

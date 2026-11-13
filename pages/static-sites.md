@@ -1,10 +1,6 @@
 ---
-title: "Temaple"
+title: "Static websites"
+parent: "Topic guides"
+permalink: /guides/static-sites
 layout: page
-permalink: /guides/template
-parent: about
-nav_order: 1
-nav_enabled: true
-nav_exclude: true
-search_exclude: true
 ---

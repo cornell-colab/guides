@@ -4,6 +4,7 @@ layout: page
 permalink: /guides/gis
 parent: Topic guides
 ---
+
 # {{ page.title }}
 
 Geographic information systems (GIS) are computer systems that record, store, and display data related to geographic locations and features (spots on the surface of the Earth). These can be as simple as web maps using longitude and latitude and as complicated as full desktop applications that can process and render complex groups of mixed geospatial data, like elevation, sets of features, and time-scales.

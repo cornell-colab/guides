@@ -4,6 +4,7 @@ layout: page
 parent: Privacy guides
 permalink: /guides/digital-harassment
 ---
+
 # {{ page.title }}
 ## Introduction: Individual and Collective Harms
 

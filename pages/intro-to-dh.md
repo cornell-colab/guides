@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introduction to digital scholarship and the digital humanities"
+title: "Introduction to digital scholarship"
 permalink: /guides
 nav_order: 1
 ---
@@ -15,7 +15,7 @@ That said, there is no single agreed-upon definition for â€œdigital humanities.â
 
 <iframe src="https://www.whatisdigitalhumanities.com" width="100%" height="490px" frameborder="0" style="border: 0;"></iframe>
 
-## Examples of Digital Methods
+## Examples of digital methods
 * Digital scholarship can take many different forms. At the Digital CoLab, we support engaging with some of the following:
 * Databases
 * Data visualizations
