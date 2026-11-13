@@ -3,6 +3,7 @@ title: "Digital projects"
 permalink: /guides/dh-projects
 layout: page
 ---
+# {{ page.title }}
 
 Digital humanities is an incredibly amorphous, hard-to-define, and capacious term that encompasses a wide range of research methods, theoretical and practical approaches, and digital and analog tools. The following projects are a selected list of examples from across DH, but by no means represent the full range of what is possible when working with digital tools to answer humanities research questions. For more projects, explore the project lists and databases below.
 

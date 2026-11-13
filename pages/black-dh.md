@@ -5,6 +5,7 @@ layout: page
 nav_order: 2
 parent: Topics guides
 ---
+# {{ page.title }}
 
 ### What is Black digital humanities (Black DH)?
 

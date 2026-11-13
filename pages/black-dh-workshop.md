@@ -5,6 +5,7 @@ layout: page
 nav_order: 2
 parent: Workshop guides
 ---
+# {{ page.title }}
 
 <details class="collapsible-outer">
   <summary class="collapsible-top">ENGL 1158: Lost in the City: Black Arts & the Great Migration</summary>

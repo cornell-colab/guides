@@ -3,6 +3,7 @@ title: "Datasets"
 permalink: /guides/datasets
 layout: page
 ---
+# {{ page.title }}
 *This page is in progress.*
 
 Explore datasets carefully created by humanities scholars, community memory-keepers, cultural heritage workers, volunteers, neighbors, student workers, digital denizens…

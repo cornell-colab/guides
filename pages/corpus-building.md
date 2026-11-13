@@ -4,6 +4,7 @@ layout: page
 parent: Text as data
 permalink: /guides/corpus-building
 ---
+# {{ page.title }}
 ## Understanding your research goals
 
 In computational text analysis, text is your data, and the text corpus is your dataset. The most important part of any data analysis is knowing the data you are working with: the context in which it was collected, its strengths, its limitations, why it has value and how you relate to it.

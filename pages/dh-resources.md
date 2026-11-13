@@ -4,6 +4,8 @@ permalink: /guides/dh-resources
 layout: page
 ---
 
+# {{ page.title }}
+
 This page overviews resources and community groups to follow for the latest DH news and job boards to find career opportunities in DH. There’s naturally overlap between news sources and job boards in the broad field of digital humanities (DH), so we have included sources that promote announcements, workshops, calls for proposals, and job postings in the following lists. 
 ### News and careers
 Careers in digital humanities span several fields and can be based in many settings: cultural heritage institutions like galleries, libraries, archives and museums (GLAM institutions), research positions in academic and educational institutions, community and nonprofit organizations, data and information technology settings, and many more. As such, some of these sources may promote some job types over others.

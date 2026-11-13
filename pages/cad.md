@@ -13,32 +13,30 @@ Collections are groups of objects, items, texts, things, etc. As in this term re
 Collection as data work thus explores the potential of using computational methods to analyse digital collections, digital objects, and their metadata, using digitised and born-digital collections and their metadata as datasets to perform computational analysis.
 
 ## What does collections as data work look like?
-
-    Digital collections and exhibits
-    Interactive maps and visualizations
-    Digital databases
-    Scholarly websites and web archives
-    Processing, presenting, and interpreting metadata from collections
-    Computational text analysis
-    Computational image comparison and analysis
-    Much, much, more!
+- Digital collections and exhibits
+- Interactive maps and visualizations
+- Digital databases
+- Scholarly websites and web archives
+- Processing, presenting, and interpreting metadata from collections
+- Computational text analysis
+- Computational image comparison and analysis
+- Much, much, more!
 
 ## What can collections as data entail?
-
-    Public humanities work
-    Creation of datasets that serve a known user need
-    Collaboratively sharing and documenting processes and practices beyond one’s institution
-    Openly publishing datasets and associated documentation
-    Encouraging computational use of digitised and born-digital collections
-    Lowering barriers to use/access
-    Enabling bulk download of data and optimising data access
-    Prioritising static directories and zipped collections
-    Direct contact with communities
-    Being guided by ongoing ethical commitments
-    Aiming to respect the rights and needs of content creators, collections subjects, and user communities (including crowdsourcing, when appropriate)
-    Valuing interoperability
-    Ongoing, iterative processes
-    Much, much, more!
+- Public humanities work
+- Creation of datasets that serve a known user need
+- Collaboratively sharing and documenting processes and practices beyond one’s institution
+- Openly publishing datasets and associated documentation
+- Encouraging computational use of digitised and born-digital collections
+- Lowering barriers to use/access
+- Enabling bulk download of data and optimising data access
+- Prioritising static directories and zipped collections
+- Direct contact with communities
+- Being guided by ongoing ethical commitments
+-  Aiming to respect the rights and needs of content creators, collections subjects, and user communities (including crowdsourcing, when appropriate)
+- Valuing interoperability
+- Ongoing, iterative processes
+-  Much, much, more!
 ## Resources for getting started
 Have questions or interested in exploring a collections as data project? Look through our [Collections as Data research guide](link)!
 

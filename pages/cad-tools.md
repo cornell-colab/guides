@@ -4,6 +4,8 @@ layout: page
 parent: Collections as data
 permalink: /guides/cad-tools
 ---
+# {{ page.title }}
+
 ## Tools for collections as data work
 Welcome to the platforms & tools page! Discover your new favourite way to make an engaging digital collection, database, visualization, map, or other public-facing piece of digital scholarship through the list of tools available below. This list is by no means exhaustive, and prioritizes open-source, free tools when available. If you notice that your favourite tool is missing, email Kiran at kam535@cornell.edu.
 
@@ -27,8 +29,3 @@ Tools that do not fit into a larger existing category, such as code playgrounds 
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTArrYU2-_JrneNYDLZc0U0oAn2Lf5FciMF-TJLkGZwQGx8AlaKdyL9fH8szryFnQeMZNc0R8kFWO05/pubhtml?widget=true&amp;headers=false" style="width:100%;height:500px;"></iframe>
-
-{% include grid.html list=site.data.cad-tools %}
-{% include carousel-js.html list=site.data.cad-tools title="A carousel hi mom" %}
-{% include img-txt.html title="image textbox y'all" description="this is an image textbox woohoo!" image="/assets/img/digital-colab.png" link="/hi" link_text="Learn More!"
- %}
