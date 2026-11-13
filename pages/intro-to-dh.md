@@ -13,8 +13,6 @@ Digital scholarship is a cross-disciplinary field of study centered on using dig
 
 That said, there is no single agreed-upon definition for “digital humanities.” Not only do definitions change across disciplines, like history and literature, but they also change depending on who you ask, what field they work in, and what kind of projects they’re working on. A good example of the variety in definitions and uses for “digital humanities” can be seen on the What is Digital Humanities site, a collection of distinct crowd-sourced definitions pulled from Day of DH conferences from 2009-2014. Click the refresh button or the New Quote button to explore some possibilities of what DH can mean.
 
-<iframe src="https://www.whatisdigitalhumanities.com" width="100%" height="490px" frameborder="0" style="border: 0;"></iframe>
-
 ## Examples of digital methods
 * Digital scholarship can take many different forms. At the Digital CoLab, we support engaging with some of the following:
 * Databases
